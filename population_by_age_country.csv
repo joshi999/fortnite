@@ -1,0 +1,1289 @@
+country,population,age_bracket,country_code
+Afghanistan,5450000,0-4,AF
+Afghanistan,5110000,10-14,AF
+Afghanistan,4560000,15-19,AF
+Afghanistan,11300000,20-39,AF
+Afghanistan,4810000,40-59,AF
+Afghanistan,5160000,5-9,AF
+Afghanistan,1630000,60+,AF
+Albania,168000,0-4,AL
+Albania,158000,10-14,AL
+Albania,193000,15-19,AL
+Albania,862000,20-39,AL
+Albania,770000,40-59,AL
+Albania,170000,5-9,AL
+Albania,622000,60+,AL
+Algeria,4390000,0-4,DZ
+Algeria,3830000,10-14,DZ
+Algeria,2910000,15-19,DZ
+Algeria,13900000,20-39,DZ
+Algeria,9300000,40-59,DZ
+Algeria,4640000,5-9,DZ
+Algeria,4370000,60+,DZ
+Angola,5790000,0-4,AO
+Angola,4330000,10-14,AO
+Angola,3540000,15-19,AO
+Angola,8870000,20-39,AO
+Angola,3920000,40-59,AO
+Angola,5010000,5-9,AO
+Angola,1360000,60+,AO
+Antigua and Barbuda,8110,0-4,AG
+Antigua and Barbuda,8090,10-14,AG
+Antigua and Barbuda,8400,15-19,AG
+Antigua and Barbuda,31600,20-39,AG
+Antigua and Barbuda,28100,40-59,AG
+Antigua and Barbuda,8020,5-9,AG
+Antigua and Barbuda,12800,60+,AG
+Argentina,3700000,0-4,AR
+Argentina,3640000,10-14,AR
+Argentina,3580000,15-19,AR
+Argentina,13400000,20-39,AR
+Argentina,10300000,40-59,AR
+Argentina,3710000,5-9,AR
+Argentina,7220000,60+,AR
+Armenia,185000,0-4,AM
+Armenia,198000,10-14,AM
+Armenia,171000,15-19,AM
+Armenia,913000,20-39,AM
+Armenia,715000,40-59,AM
+Armenia,205000,5-9,AM
+Armenia,551000,60+,AM
+Australia,1660000,0-4,AU
+Australia,1610000,10-14,AU
+Australia,1520000,15-19,AU
+Australia,7040000,20-39,AU
+Australia,6400000,40-59,AU
+Australia,1630000,5-9,AU
+Australia,5550000,60+,AU
+Austria,427000,0-4,AT
+Austria,404000,10-14,AT
+Austria,423000,15-19,AT
+Austria,2240000,20-39,AT
+Austria,2550000,40-59,AT
+Austria,411000,5-9,AT
+Austria,2330000,60+,AT
+Azerbaijan,800000,0-4,AZ
+Azerbaijan,698000,10-14,AZ
+Azerbaijan,637000,15-19,AZ
+Azerbaijan,3370000,20-39,AZ
+Azerbaijan,2550000,40-59,AZ
+Azerbaijan,863000,5-9,AZ
+Azerbaijan,1180000,60+,AZ
+Bahamas,27900,0-4,BS
+Bahamas,27200,10-14,BS
+Bahamas,25400,15-19,BS
+Bahamas,131000,20-39,BS
+Bahamas,106000,40-59,BS
+Bahamas,28000,5-9,BS
+Bahamas,61700,60+,BS
+Bahrain,108000,0-4,BH
+Bahrain,95700,10-14,BH
+Bahrain,80900,15-19,BH
+Bahrain,815000,20-39,BH
+Bahrain,401000,40-59,BH
+Bahrain,106000,5-9,BH
+Bahrain,91000,60+,BH
+Bangladesh,14800000,0-4,BD
+Bangladesh,15600000,10-14,BD
+Bangladesh,16100000,15-19,BD
+Bangladesh,57900000,20-39,BD
+Bangladesh,36700000,40-59,BD
+Bangladesh,15200000,5-9,BD
+Bangladesh,13400000,60+,BD
+Barbados,17000,0-4,BB
+Barbados,18600,10-14,BB
+Barbados,18500,15-19,BB
+Barbados,72100,20-39,BB
+Barbados,77300,40-59,BB
+Barbados,18300,5-9,BB
+Barbados,65800,60+,BB
+Belarus,554000,0-4,BY
+Belarus,512000,10-14,BY
+Belarus,443000,15-19,BY
+Belarus,2580000,20-39,BY
+Belarus,2610000,40-59,BY
+Belarus,576000,5-9,BY
+Belarus,2140000,60+,BY
+Belgium,664000,0-4,BE
+Belgium,671000,10-14,BE
+Belgium,641000,15-19,BE
+Belgium,2890000,20-39,BE
+Belgium,3120000,40-59,BE
+Belgium,669000,5-9,BE
+Belgium,2970000,60+,BE
+Belize,41900,0-4,BZ
+Belize,37900,10-14,BZ
+Belize,39900,15-19,BZ
+Belize,136000,20-39,BZ
+Belize,75900,40-59,BZ
+Belize,39500,5-9,BZ
+Belize,26400,60+,BZ
+Benin,1910000,0-4,BJ
+Benin,1490000,10-14,BJ
+Benin,1290000,15-19,BJ
+Benin,3500000,20-39,BJ
+Benin,1630000,40-59,BJ
+Benin,1690000,5-9,BJ
+Benin,616000,60+,BJ
+Bhutan,70300,0-4,BT
+Bhutan,72400,10-14,BT
+Bhutan,71800,15-19,BT
+Bhutan,311000,20-39,BT
+Bhutan,172000,40-59,BT
+Bhutan,70100,5-9,BT
+Bhutan,67000,60+,BT
+Bolivia,1210000,0-4,BO
+Bolivia,1150000,10-14,BO
+Bolivia,1120000,15-19,BO
+Bolivia,3670000,20-39,BO
+Bolivia,2090000,40-59,BO
+Bolivia,1160000,5-9,BO
+Bolivia,1150000,60+,BO
+Bosnia and Herzegovina,161000,0-4,BA
+Bosnia and Herzegovina,172000,10-14,BA
+Bosnia and Herzegovina,177000,15-19,BA
+Bosnia and Herzegovina,958000,20-39,BA
+Bosnia and Herzegovina,996000,40-59,BA
+Bosnia and Herzegovina,162000,5-9,BA
+Bosnia and Herzegovina,872000,60+,BA
+Botswana,256000,0-4,BW
+Botswana,230000,10-14,BW
+Botswana,216000,15-19,BW
+Botswana,845000,20-39,BW
+Botswana,449000,40-59,BW
+Botswana,255000,5-9,BW
+Botswana,165000,60+,BW
+Brazil,14300000,0-4,BR
+Brazil,15100000,10-14,BR
+Brazil,16300000,15-19,BR
+Brazil,69200000,20-39,BR
+Brazil,54200000,40-59,BR
+Brazil,14800000,5-9,BR
+Brazil,29800000,60+,BR
+Brunei,33000,0-4,BN
+Brunei,31400,10-14,BN
+Brunei,34100,15-19,BN
+Brunei,150000,20-39,BN
+Brunei,120000,40-59,BN
+Brunei,33500,5-9,BN
+Brunei,42600,60+,BN
+Bulgaria,322000,0-4,BG
+Bulgaria,353000,10-14,BG
+Bulgaria,312000,15-19,BG
+Bulgaria,1650000,20-39,BG
+Bulgaria,2010000,40-59,BG
+Bulgaria,334000,5-9,BG
+Bulgaria,1960000,60+,BG
+Burkina Faso,3470000,0-4,BF
+Burkina Faso,2720000,10-14,BF
+Burkina Faso,2310000,15-19,BF
+Burkina Faso,5940000,20-39,BF
+Burkina Faso,2560000,40-59,BF
+Burkina Faso,3080000,5-9,BF
+Burkina Faso,821000,60+,BF
+Burundi,2100000,0-4,BI
+Burundi,1490000,10-14,BI
+Burundi,1180000,15-19,BI
+Burundi,3460000,20-39,BI
+Burundi,1370000,40-59,BI
+Burundi,1790000,5-9,BI
+Burundi,548000,60+,BI
+Cambodia,1780000,0-4,KH
+Cambodia,1640000,10-14,KH
+Cambodia,1460000,15-19,KH
+Cambodia,6000000,20-39,KH
+Cambodia,2820000,40-59,KH
+Cambodia,1750000,5-9,KH
+Cambodia,1260000,60+,KH
+Cameroon,4020000,0-4,CM
+Cameroon,3230000,10-14,CM
+Cameroon,2780000,15-19,CM
+Cameroon,7760000,20-39,CM
+Cameroon,3290000,40-59,CM
+Cameroon,3640000,5-9,CM
+Cameroon,1240000,60+,CM
+Canada,1990000,0-4,CA
+Canada,2060000,10-14,CA
+Canada,1990000,15-19,CA
+Canada,10100000,20-39,CA
+Canada,10000000,40-59,CA
+Canada,2010000,5-9,CA
+Canada,9470000,60+,CA
+Cape Verde,55200,0-4,CV
+Cape Verde,55000,10-14,CV
+Cape Verde,55400,15-19,CV
+Cape Verde,203000,20-39,CV
+Cape Verde,103000,40-59,CV
+Cape Verde,54300,5-9,CV
+Cape Verde,41600,60+,CV
+Central African Republic,741000,0-4,CF
+Central African Republic,643000,10-14,CF
+Central African Republic,582000,15-19,CF
+Central African Republic,1400000,20-39,CF
+Central African Republic,601000,40-59,CF
+Central African Republic,689000,5-9,CF
+Central African Republic,268000,60+,CF
+Chad,2890000,0-4,TD
+Chad,2150000,10-14,TD
+Chad,1840000,15-19,TD
+Chad,4540000,20-39,TD
+Chad,1730000,40-59,TD
+Chad,2490000,5-9,TD
+Chad,647000,60+,TD
+Chile,1180000,0-4,CL
+Chile,1250000,10-14,CL
+Chile,1270000,15-19,CL
+Chile,5550000,20-39,CL
+Chile,4810000,40-59,CL
+Chile,1200000,5-9,CL
+Chile,3220000,60+,CL
+China,80800000,0-4,CN
+China,82200000,10-14,CN
+China,78500000,15-19,CN
+China,412000000,20-39,CN
+China,435000000,40-59,CN
+China,85700000,5-9,CN
+China,250000000,60+,CN
+Colombia,3580000,0-4,CO
+Colombia,3890000,10-14,CO
+Colombia,4040000,15-19,CO
+Colombia,16000000,20-39,CO
+Colombia,12400000,40-59,CO
+Colombia,3720000,5-9,CO
+Colombia,6530000,60+,CO
+Comoros,124000,0-4,KM
+Comoros,102000,10-14,KM
+Comoros,89600,15-19,KM
+Comoros,268000,20-39,KM
+Comoros,128000,40-59,KM
+Comoros,114000,5-9,KM
+Comoros,44500,60+,KM
+"Congo, Dem. Rep.",15800000,0-4,CD
+"Congo, Dem. Rep.",11500000,10-14,CD
+"Congo, Dem. Rep.",9470000,15-19,CD
+"Congo, Dem. Rep.",23900000,20-39,CD
+"Congo, Dem. Rep.",10900000,40-59,CD
+"Congo, Dem. Rep.",13700000,5-9,CD
+"Congo, Dem. Rep.",4190000,60+,CD
+"Congo, Rep.",859000,0-4,CG
+"Congo, Rep.",708000,10-14,CG
+"Congo, Rep.",587000,15-19,CG
+"Congo, Rep.",1570000,20-39,CG
+"Congo, Rep.",860000,40-59,CG
+"Congo, Rep.",802000,5-9,CG
+"Congo, Rep.",302000,60+,CG
+Costa Rica,341000,0-4,CR
+Costa Rica,361000,10-14,CR
+Costa Rica,363000,15-19,CR
+Costa Rica,1620000,20-39,CR
+Costa Rica,1250000,40-59,CR
+Costa Rica,350000,5-9,CR
+Costa Rica,765000,60+,CR
+"Cote d'Ivoire",4190000,0-4,CI
+"Cote d'Ivoire",3160000,10-14,CI
+"Cote d'Ivoire",2810000,15-19,CI
+"Cote d'Ivoire",7620000,20-39,CI
+"Cote d'Ivoire",3500000,40-59,CI
+"Cote d'Ivoire",3650000,5-9,CI
+"Cote d'Ivoire",1260000,60+,CI
+Croatia,186000,0-4,HR
+Croatia,216000,10-14,HR
+Croatia,203000,15-19,HR
+Croatia,1020000,20-39,HR
+Croatia,1130000,40-59,HR
+Croatia,203000,5-9,HR
+Croatia,1150000,60+,HR
+Cuba,602000,0-4,CU
+Cuba,583000,10-14,CU
+Cuba,618000,15-19,CU
+Cuba,2910000,20-39,CU
+Cuba,3680000,40-59,CU
+Cuba,622000,5-9,CU
+Cuba,2490000,60+,CU
+Cyprus,64800,0-4,CY
+Cyprus,67800,10-14,CY
+Cyprus,73900,15-19,CY
+Cyprus,380000,20-39,CY
+Cyprus,314000,40-59,CY
+Cyprus,67600,5-9,CY
+Cyprus,239000,60+,CY
+Czech Republic,537000,0-4,CZ
+Czech Republic,572000,10-14,CZ
+Czech Republic,484000,15-19,CZ
+Czech Republic,2550000,20-39,CZ
+Czech Republic,3140000,40-59,CZ
+Czech Republic,555000,5-9,CZ
+Czech Republic,2790000,60+,CZ
+Denmark,309000,0-4,DK
+Denmark,337000,10-14,DK
+Denmark,339000,15-19,DK
+Denmark,1450000,20-39,DK
+Denmark,1550000,40-59,DK
+Denmark,297000,5-9,DK
+Denmark,1520000,60+,DK
+Djibouti,102000,0-4,DJ
+Djibouti,96000,10-14,DJ
+Djibouti,98200,15-19,DJ
+Djibouti,348000,20-39,DJ
+Djibouti,187000,40-59,DJ
+Djibouti,99000,5-9,DJ
+Djibouti,69300,60+,DJ
+Dominican Republic,1040000,0-4,DO
+Dominican Republic,1050000,10-14,DO
+Dominican Republic,1010000,15-19,DO
+Dominican Republic,3430000,20-39,DO
+Dominican Republic,2290000,40-59,DO
+Dominican Republic,1060000,5-9,DO
+Dominican Republic,1230000,60+,DO
+Ecuador,1620000,0-4,EC
+Ecuador,1560000,10-14,EC
+Ecuador,1500000,15-19,EC
+Ecuador,5450000,20-39,EC
+Ecuador,3640000,40-59,EC
+Ecuador,1600000,5-9,EC
+Ecuador,1960000,60+,EC
+Egypt,12100000,0-4,EG
+Egypt,9760000,10-14,EG
+Egypt,8860000,15-19,EG
+Egypt,31600000,20-39,EG
+Egypt,19800000,40-59,EG
+Egypt,12300000,5-9,EG
+Egypt,8490000,60+,EG
+El Salvador,574000,0-4,SV
+El Salvador,576000,10-14,SV
+El Salvador,585000,15-19,SV
+El Salvador,2090000,20-39,SV
+El Salvador,1290000,40-59,SV
+El Salvador,568000,5-9,SV
+El Salvador,793000,60+,SV
+Equatorial Guinea,200000,0-4,GQ
+Equatorial Guinea,144000,10-14,GQ
+Equatorial Guinea,121000,15-19,GQ
+Equatorial Guinea,533000,20-39,GQ
+Equatorial Guinea,176000,40-59,GQ
+Equatorial Guinea,172000,5-9,GQ
+Equatorial Guinea,59500,60+,GQ
+Eritrea,770000,0-4,ER
+Eritrea,700000,10-14,ER
+Eritrea,594000,15-19,ER
+Eritrea,1670000,20-39,ER
+Eritrea,678000,40-59,ER
+Eritrea,737000,5-9,ER
+Eritrea,283000,60+,ER
+Estonia,69200,0-4,EE
+Estonia,76800,10-14,EE
+Estonia,63500,15-19,EE
+Estonia,322000,20-39,EE
+Estonia,349000,40-59,EE
+Estonia,70900,5-9,EE
+Estonia,349000,60+,EE
+Ethiopia,15700000,0-4,ET
+Ethiopia,13500000,10-14,ET
+Ethiopia,12900000,15-19,ET
+Ethiopia,35100000,20-39,ET
+Ethiopia,14700000,40-59,ET
+Ethiopia,14700000,5-9,ET
+Ethiopia,6100000,60+,ET
+Fiji,83800,0-4,FJ
+Fiji,87400,10-14,FJ
+Fiji,78900,15-19,FJ
+Fiji,281000,20-39,FJ
+Fiji,204000,40-59,FJ
+Fiji,86900,5-9,FJ
+Fiji,102000,60+,FJ
+Finland,306000,0-4,FI
+Finland,310000,10-14,FI
+Finland,296000,15-19,FI
+Finland,1380000,20-39,FI
+Finland,1380000,40-59,FI
+Finland,305000,5-9,FI
+Finland,1600000,60+,FI
+France,3800000,0-4,FR
+France,3990000,10-14,FR
+France,3950000,15-19,FR
+France,15700000,20-39,FR
+France,16900000,40-59,FR
+France,3890000,5-9,FR
+France,17600000,60+,FR
+Gabon,280000,0-4,GA
+Gabon,226000,10-14,GA
+Gabon,195000,15-19,GA
+Gabon,680000,20-39,GA
+Gabon,370000,40-59,GA
+Gabon,264000,5-9,GA
+Gabon,137000,60+,GA
+Gambia,388000,0-4,GM
+Gambia,293000,10-14,GM
+Gambia,252000,15-19,GM
+Gambia,656000,20-39,GM
+Gambia,276000,40-59,GM
+Gambia,340000,5-9,GM
+Gambia,89800,60+,GM
+Georgia,250000,0-4,GE
+Georgia,249000,10-14,GE
+Georgia,211000,15-19,GE
+Georgia,1040000,20-39,GE
+Georgia,1030000,40-59,GE
+Georgia,273000,5-9,GE
+Georgia,847000,60+,GE
+Germany,3690000,0-4,DE
+Germany,3550000,10-14,DE
+Germany,3810000,15-19,DE
+Germany,20000000,20-39,DE
+Germany,23700000,40-59,DE
+Germany,3600000,5-9,DE
+Germany,24100000,60+,DE
+Ghana,4190000,0-4,GH
+Ghana,3510000,10-14,GH
+Ghana,3100000,15-19,GH
+Ghana,9440000,20-39,GH
+Ghana,4860000,40-59,GH
+Ghana,3950000,5-9,GH
+Ghana,1680000,60+,GH
+Greece,440000,0-4,GR
+Greece,580000,10-14,GR
+Greece,552000,15-19,GR
+Greece,2550000,20-39,GR
+Greece,3380000,40-59,GR
+Greece,505000,5-9,GR
+Greece,3090000,60+,GR
+Grenada,9570,0-4,GD
+Grenada,9350,10-14,GD
+Grenada,8620,15-19,GD
+Grenada,38100,20-39,GD
+Grenada,21500,40-59,GD
+Grenada,9740,5-9,GD
+Grenada,12400,60+,GD
+Guatemala,2060000,0-4,GT
+Guatemala,1930000,10-14,GT
+Guatemala,1950000,15-19,GT
+Guatemala,5940000,20-39,GT
+Guatemala,2760000,40-59,GT
+Guatemala,1980000,5-9,GT
+Guatemala,1290000,60+,GT
+Guinea,2130000,0-4,GN
+Guinea,1690000,10-14,GN
+Guinea,1470000,15-19,GN
+Guinea,4000000,20-39,GN
+Guinea,1840000,40-59,GN
+Guinea,1890000,5-9,GN
+Guinea,722000,60+,GN
+Guinea-Bissau,305000,0-4,GW
+Guinea-Bissau,240000,10-14,GW
+Guinea-Bissau,206000,15-19,GW
+Guinea-Bissau,610000,20-39,GW
+Guinea-Bissau,268000,40-59,GW
+Guinea-Bissau,274000,5-9,GW
+Guinea-Bissau,99400,60+,GW
+Guyana,74900,0-4,GY
+Guyana,72600,10-14,GY
+Guyana,77500,15-19,GY
+Guyana,242000,20-39,GY
+Guyana,175000,40-59,GY
+Guyana,74000,5-9,GY
+Guyana,74900,60+,GY
+Haiti,1230000,0-4,HT
+Haiti,1190000,10-14,HT
+Haiti,1130000,15-19,HT
+Haiti,3820000,20-39,HT
+Haiti,1930000,40-59,HT
+Haiti,1210000,5-9,HT
+Haiti,871000,60+,HT
+Honduras,968000,0-4,HN
+Honduras,985000,10-14,HN
+Honduras,1010000,15-19,HN
+Honduras,3350000,20-39,HN
+Honduras,1730000,40-59,HN
+Honduras,946000,5-9,HN
+Honduras,732000,60+,HN
+Hungary,436000,0-4,HU
+Hungary,483000,10-14,HU
+Hungary,486000,15-19,HU
+Hungary,2410000,20-39,HU
+Hungary,2780000,40-59,HU
+Hungary,447000,5-9,HU
+Hungary,2580000,60+,HU
+Iceland,22200,0-4,IS
+Iceland,23200,10-14,IS
+Iceland,21500,15-19,IS
+Iceland,94700,20-39,IS
+Iceland,85100,40-59,IS
+Iceland,22600,5-9,IS
+Iceland,74000,60+,IS
+India,121000000,0-4,IN
+India,126000000,10-14,IN
+India,126000000,15-19,IN
+India,453000000,20-39,IN
+India,297000000,40-59,IN
+India,120000000,5-9,IN
+India,139000000,60+,IN
+Indonesia,23800000,0-4,ID
+Indonesia,23600000,10-14,ID
+Indonesia,23500000,15-19,ID
+Indonesia,85500000,20-39,ID
+Indonesia,65600000,40-59,ID
+Indonesia,24500000,5-9,ID
+Indonesia,25900000,60+,ID
+Iran,6250000,0-4,IR
+Iran,6400000,10-14,IR
+Iran,5410000,15-19,IR
+Iran,30600000,20-39,IR
+Iran,19800000,40-59,IR
+Iran,6880000,5-9,IR
+Iran,8250000,60+,IR
+Iraq,6120000,0-4,IQ
+Iraq,4860000,10-14,IQ
+Iraq,4200000,15-19,IQ
+Iraq,12400000,20-39,IQ
+Iraq,6290000,40-59,IQ
+Iraq,5580000,5-9,IQ
+Iraq,2070000,60+,IQ
+Ireland,323000,0-4,IE
+Ireland,356000,10-14,IE
+Ireland,314000,15-19,IE
+Ireland,1200000,20-39,IE
+Ireland,1360000,40-59,IE
+Ireland,354000,5-9,IE
+Ireland,985000,60+,IE
+Israel,822000,0-4,IL
+Israel,745000,10-14,IL
+Israel,675000,15-19,IL
+Israel,2340000,20-39,IL
+Israel,1860000,40-59,IL
+Israel,832000,5-9,IL
+Israel,1440000,60+,IL
+Italy,2430000,0-4,IT
+Italy,2820000,10-14,IT
+Italy,2820000,15-19,IT
+Italy,12300000,20-39,IT
+Italy,18100000,40-59,IT
+Italy,2570000,5-9,IT
+Italy,18200000,60+,IT
+Jamaica,228000,0-4,JM
+Jamaica,222000,10-14,JM
+Jamaica,232000,15-19,JM
+Jamaica,941000,20-39,JM
+Jamaica,660000,40-59,JM
+Jamaica,204000,5-9,JM
+Jamaica,427000,60+,JM
+Japan,5140000,0-4,JP
+Japan,5560000,10-14,JP
+Japan,5690000,15-19,JP
+Japan,26600000,20-39,JP
+Japan,35000000,40-59,JP
+Japan,5400000,5-9,JP
+Japan,43200000,60+,JP
+Jordan,1220000,0-4,JO
+Jordan,1100000,10-14,JO
+Jordan,995000,15-19,JO
+Jordan,3210000,20-39,JO
+Jordan,1870000,40-59,JO
+Jordan,1200000,5-9,JO
+Jordan,617000,60+,JO
+Kazakhstan,1810000,0-4,KZ
+Kazakhstan,1620000,10-14,KZ
+Kazakhstan,1140000,15-19,KZ
+Kazakhstan,5660000,20-39,KZ
+Kazakhstan,4340000,40-59,KZ
+Kazakhstan,1990000,5-9,KZ
+Kazakhstan,2220000,60+,KZ
+Kenya,7430000,0-4,KE
+Kenya,6590000,10-14,KE
+Kenya,5860000,15-19,KE
+Kenya,16800000,20-39,KE
+Kenya,7470000,40-59,KE
+Kenya,6920000,5-9,KE
+Kenya,2410000,60+,KE
+Kiribati,15300,0-4,KI
+Kiribati,13600,10-14,KI
+Kiribati,10500,15-19,KI
+Kiribati,38400,20-39,KI
+Kiribati,21600,40-59,KI
+Kiribati,14500,5-9,KI
+Kiribati,8430,60+,KI
+Kuwait,324000,0-4,KW
+Kuwait,281000,10-14,KW
+Kuwait,235000,15-19,KW
+Kuwait,1590000,20-39,KW
+Kuwait,1300000,40-59,KW
+Kuwait,312000,5-9,KW
+Kuwait,264000,60+,KW
+Kyrgyz Republic,709000,0-4,KG
+Kyrgyz Republic,595000,10-14,KG
+Kyrgyz Republic,466000,15-19,KG
+Kyrgyz Republic,2020000,20-39,KG
+Kyrgyz Republic,1240000,40-59,KG
+Kyrgyz Republic,743000,5-9,KG
+Kyrgyz Republic,528000,60+,KG
+Lao,763000,0-4,LA
+Lao,751000,10-14,LA
+Lao,705000,15-19,LA
+Lao,2450000,20-39,LA
+Lao,1260000,40-59,LA
+Lao,760000,5-9,LA
+Lao,481000,60+,LA
+Latvia,93500,0-4,LV
+Latvia,106000,10-14,LV
+Latvia,88300,15-19,LV
+Latvia,461000,20-39,LV
+Latvia,525000,40-59,LV
+Latvia,99400,5-9,LV
+Latvia,520000,60+,LV
+Lebanon,443000,0-4,LB
+Lebanon,419000,10-14,LB
+Lebanon,486000,15-19,LB
+Lebanon,2110000,20-39,LB
+Lebanon,1330000,40-59,LB
+Lebanon,441000,5-9,LB
+Lebanon,789000,60+,LB
+Lesotho,290000,0-4,LS
+Lesotho,249000,10-14,LS
+Lesotho,241000,15-19,LS
+Lesotho,823000,20-39,LS
+Lesotho,292000,40-59,LS
+Lesotho,276000,5-9,LS
+Lesotho,152000,60+,LS
+Liberia,766000,0-4,LR
+Liberia,628000,10-14,LR
+Liberia,558000,15-19,LR
+Liberia,1480000,20-39,LR
+Liberia,727000,40-59,LR
+Liberia,690000,5-9,LR
+Liberia,256000,60+,LR
+Libya,591000,0-4,LY
+Libya,595000,10-14,LY
+Libya,555000,15-19,LY
+Libya,2200000,20-39,LY
+Libya,1620000,40-59,LY
+Libya,627000,5-9,LY
+Libya,471000,60+,LY
+Lithuania,151000,0-4,LT
+Lithuania,138000,10-14,LT
+Lithuania,135000,15-19,LT
+Lithuania,730000,20-39,LT
+Lithuania,792000,40-59,LT
+Lithuania,151000,5-9,LT
+Lithuania,756000,60+,LT
+Luxembourg,34900,0-4,LU
+Luxembourg,32000,10-14,LU
+Luxembourg,34600,15-19,LU
+Luxembourg,171000,20-39,LU
+Luxembourg,175000,40-59,LU
+Luxembourg,32800,5-9,LU
+Luxembourg,124000,60+,LU
+"Macedonia, FYR",116000,0-4,MK
+"Macedonia, FYR",112000,10-14,MK
+"Macedonia, FYR",121000,15-19,MK
+"Macedonia, FYR",609000,20-39,MK
+"Macedonia, FYR",582000,40-59,MK
+"Macedonia, FYR",116000,5-9,MK
+"Macedonia, FYR",432000,60+,MK
+Madagascar,4110000,0-4,MG
+Madagascar,3330000,10-14,MG
+Madagascar,3010000,15-19,MG
+Madagascar,8270000,20-39,MG
+Madagascar,3930000,40-59,MG
+Madagascar,3650000,5-9,MG
+Madagascar,1390000,60+,MG
+Malawi,3220000,0-4,MW
+Malawi,2670000,10-14,MW
+Malawi,2270000,15-19,MW
+Malawi,6130000,20-39,MW
+Malawi,2300000,40-59,MW
+Malawi,2850000,5-9,MW
+Malawi,850000,60+,MW
+Malaysia,2700000,0-4,MY
+Malaysia,2490000,10-14,MY
+Malaysia,2640000,15-19,MY
+Malaysia,11900000,20-39,MY
+Malaysia,7090000,40-59,MY
+Malaysia,2570000,5-9,MY
+Malaysia,3510000,60+,MY
+Maldives,37600,0-4,MV
+Maldives,31000,10-14,MV
+Maldives,27600,15-19,MV
+Maldives,198000,20-39,MV
+Maldives,93800,40-59,MV
+Maldives,37900,5-9,MV
+Maldives,32600,60+,MV
+Mali,3610000,0-4,ML
+Mali,2760000,10-14,ML
+Mali,2250000,15-19,ML
+Mali,5370000,20-39,ML
+Mali,2340000,40-59,ML
+Mali,3160000,5-9,ML
+Mali,785000,60+,ML
+Malta,21600,0-4,MT
+Malta,20200,10-14,MT
+Malta,20700,15-19,MT
+Malta,119000,20-39,MT
+Malta,112000,40-59,MT
+Malta,21400,5-9,MT
+Malta,120000,60+,MT
+Mauritania,697000,0-4,MR
+Mauritania,552000,10-14,MR
+Mauritania,485000,15-19,MR
+Mauritania,1440000,20-39,MR
+Mauritania,734000,40-59,MR
+Mauritania,629000,5-9,MR
+Mauritania,251000,60+,MR
+Mauritius,66200,0-4,MU
+Mauritius,80600,10-14,MU
+Mauritius,94600,15-19,MU
+Mauritius,372000,20-39,MU
+Mauritius,358000,40-59,MU
+Mauritius,68800,5-9,MU
+Mauritius,234000,60+,MU
+Mexico,11300000,0-4,MX
+Mexico,11400000,10-14,MX
+Mexico,11600000,15-19,MX
+Mexico,43000000,20-39,MX
+Mexico,30600000,40-59,MX
+Mexico,11500000,5-9,MX
+Mexico,14700000,60+,MX
+"Micronesia, Fed. Sts.",12000,0-4,FM
+"Micronesia, Fed. Sts.",11400,10-14,FM
+"Micronesia, Fed. Sts.",12000,15-19,FM
+"Micronesia, Fed. Sts.",38400,20-39,FM
+"Micronesia, Fed. Sts.",13500,40-59,FM
+"Micronesia, Fed. Sts.",11200,5-9,FM
+"Micronesia, Fed. Sts.",9270,60+,FM
+Moldova,198000,0-4,MD
+Moldova,215000,10-14,MD
+Moldova,199000,15-19,MD
+Moldova,1350000,20-39,MD
+Moldova,1080000,40-59,MD
+Moldova,221000,5-9,MD
+Moldova,761000,60+,MD
+Mongolia,338000,0-4,MN
+Mongolia,278000,10-14,MN
+Mongolia,217000,15-19,MN
+Mongolia,1050000,20-39,MN
+Mongolia,732000,40-59,MN
+Mongolia,357000,5-9,MN
+Mongolia,238000,60+,MN
+Montenegro,34900,0-4,ME
+Montenegro,39400,10-14,ME
+Montenegro,39200,15-19,ME
+Montenegro,172000,20-39,ME
+Montenegro,164000,40-59,ME
+Montenegro,37000,5-9,ME
+Montenegro,142000,60+,ME
+Morocco,3350000,0-4,MA
+Morocco,3130000,10-14,MA
+Morocco,2980000,15-19,MA
+Morocco,11600000,20-39,MA
+Morocco,8210000,40-59,MA
+Morocco,3430000,5-9,MA
+Morocco,4400000,60+,MA
+Mozambique,5340000,0-4,MZ
+Mozambique,4150000,10-14,MZ
+Mozambique,3580000,15-19,MZ
+Mozambique,9070000,20-39,MZ
+Mozambique,3890000,40-59,MZ
+Mozambique,4710000,5-9,MZ
+Mozambique,1570000,60+,MZ
+Myanmar,4490000,0-4,MM
+Myanmar,4840000,10-14,MM
+Myanmar,5160000,15-19,MM
+Myanmar,17400000,20-39,MM
+Myanmar,12800000,40-59,MM
+Myanmar,4510000,5-9,MM
+Myanmar,5630000,60+,MM
+Namibia,351000,0-4,NA
+Namibia,290000,10-14,NA
+Namibia,271000,15-19,NA
+Namibia,887000,20-39,NA
+Namibia,411000,40-59,NA
+Namibia,333000,5-9,NA
+Namibia,154000,60+,NA
+Nepal,2790000,0-4,NP
+Nepal,3140000,10-14,NP
+Nepal,3300000,15-19,NP
+Nepal,9970000,20-39,NP
+Nepal,5540000,40-59,NP
+Nepal,2790000,5-9,NP
+Nepal,2740000,60+,NP
+Netherlands,905000,0-4,NL
+Netherlands,938000,10-14,NL
+Netherlands,1020000,15-19,NL
+Netherlands,4200000,20-39,NL
+Netherlands,4680000,40-59,NL
+Netherlands,894000,5-9,NL
+Netherlands,4560000,60+,NL
+New Zealand,313000,0-4,NZ
+New Zealand,322000,10-14,NZ
+New Zealand,303000,15-19,NZ
+New Zealand,1290000,20-39,NZ
+New Zealand,1220000,40-59,NZ
+New Zealand,314000,5-9,NZ
+New Zealand,1070000,60+,NZ
+Nicaragua,580000,0-4,NI
+Nicaragua,602000,10-14,NI
+Nicaragua,584000,15-19,NI
+Nicaragua,2200000,20-39,NI
+Nicaragua,1260000,40-59,NI
+Nicaragua,595000,5-9,NI
+Nicaragua,599000,60+,NI
+Niger,4830000,0-4,NE
+Niger,3240000,10-14,NE
+Niger,2630000,15-19,NE
+Niger,5750000,20-39,NE
+Niger,2670000,40-59,NE
+Niger,3930000,5-9,NE
+Niger,1020000,60+,NE
+Nigeria,33900000,0-4,NG
+Nigeria,25800000,10-14,NG
+Nigeria,21900000,15-19,NG
+Nigeria,57600000,20-39,NG
+Nigeria,27700000,40-59,NG
+Nigeria,29900000,5-9,NG
+Nigeria,9310000,60+,NG
+North Korea,1730000,0-4,KP
+North Korea,1730000,10-14,KP
+North Korea,1880000,15-19,KP
+North Korea,7580000,20-39,KP
+North Korea,7340000,40-59,KP
+North Korea,1700000,5-9,KP
+North Korea,3880000,60+,KP
+Norway,328000,0-4,NO
+Norway,321000,10-14,NO
+Norway,322000,15-19,NO
+Norway,1470000,20-39,NO
+Norway,1440000,40-59,NO
+Norway,313000,5-9,NO
+Norway,1260000,60+,NO
+Oman,398000,0-4,OM
+Oman,311000,10-14,OM
+Oman,235000,15-19,OM
+Oman,2620000,20-39,OM
+Oman,988000,40-59,OM
+Oman,385000,5-9,OM
+Oman,218000,60+,OM
+Pakistan,25300000,0-4,PK
+Pakistan,21900000,10-14,PK
+Pakistan,19400000,15-19,PK
+Pakistan,67300000,20-39,PK
+Pakistan,35500000,40-59,PK
+Pakistan,24300000,5-9,PK
+Pakistan,14700000,60+,PK
+Palestine,762000,0-4,PS
+Palestine,614000,10-14,PS
+Palestine,548000,15-19,PS
+Palestine,1690000,20-39,PS
+Palestine,763000,40-59,PS
+Palestine,692000,5-9,PS
+Palestine,257000,60+,PS
+Panama,387000,0-4,PA
+Panama,369000,10-14,PA
+Panama,355000,15-19,PA
+Panama,1280000,20-39,PA
+Panama,984000,40-59,PA
+Panama,385000,5-9,PA
+Panama,527000,60+,PA
+Papua New Guinea,1080000,0-4,PG
+Papua New Guinea,967000,10-14,PG
+Papua New Guinea,900000,15-19,PG
+Papua New Guinea,2710000,20-39,PG
+Papua New Guinea,1520000,40-59,PG
+Papua New Guinea,1010000,5-9,PG
+Papua New Guinea,564000,60+,PG
+Paraguay,687000,0-4,PY
+Paraguay,665000,10-14,PY
+Paraguay,650000,15-19,PY
+Paraguay,2410000,20-39,PY
+Paraguay,1280000,40-59,PY
+Paraguay,669000,5-9,PY
+Paraguay,712000,60+,PY
+Peru,2970000,0-4,PE
+Peru,2880000,10-14,PE
+Peru,2800000,15-19,PE
+Peru,10600000,20-39,PE
+Peru,7360000,40-59,PE
+Peru,2990000,5-9,PE
+Peru,3730000,60+,PE
+Philippines,11800000,0-4,PH
+Philippines,10900000,10-14,PH
+Philippines,10400000,15-19,PH
+Philippines,34800000,20-39,PH
+Philippines,21500000,40-59,PH
+Philippines,11400000,5-9,PH
+Philippines,9030000,60+,PH
+Poland,1720000,0-4,PL
+Poland,2000000,10-14,PL
+Poland,1780000,15-19,PL
+Poland,10500000,20-39,PL
+Poland,10200000,40-59,PL
+Poland,1900000,5-9,PL
+Poland,9790000,60+,PL
+Portugal,387000,0-4,PT
+Portugal,492000,10-14,PT
+Portugal,527000,15-19,PT
+Portugal,2300000,20-39,PT
+Portugal,3070000,40-59,PT
+Portugal,442000,5-9,PT
+Portugal,3000000,60+,PT
+Qatar,135000,0-4,QA
+Qatar,121000,10-14,QA
+Qatar,107000,15-19,QA
+Qatar,1520000,20-39,QA
+Qatar,678000,40-59,QA
+Qatar,134000,5-9,QA
+Qatar,101000,60+,QA
+Romania,925000,0-4,RO
+Romania,1040000,10-14,RO
+Romania,1030000,15-19,RO
+Romania,4820000,20-39,RO
+Romania,5600000,40-59,RO
+Romania,963000,5-9,RO
+Romania,5000000,60+,RO
+Russia,8890000,0-4,RU
+Russia,7940000,10-14,RU
+Russia,7010000,15-19,RU
+Russia,39700000,20-39,RU
+Russia,38800000,40-59,RU
+Russia,9360000,5-9,RU
+Russia,32100000,60+,RU
+Rwanda,1780000,0-4,RW
+Rwanda,1600000,10-14,RW
+Rwanda,1390000,15-19,RW
+Rwanda,4110000,20-39,RW
+Rwanda,1810000,40-59,RW
+Rwanda,1710000,5-9,RW
+Rwanda,690000,60+,RW
+Samoa,22600,0-4,WS
+Samoa,25000,10-14,WS
+Samoa,21300,15-19,WS
+Samoa,53000,20-39,WS
+Samoa,35900,40-59,WS
+Samoa,23800,5-9,WS
+Samoa,18600,60+,WS
+Sao Tome and Principe,32300,0-4,ST
+Sao Tome and Principe,28100,10-14,ST
+Sao Tome and Principe,24800,15-19,ST
+Sao Tome and Principe,62100,20-39,ST
+Sao Tome and Principe,30700,40-59,ST
+Sao Tome and Principe,30300,5-9,ST
+Sao Tome and Principe,9720,60+,ST
+Saudi Arabia,3060000,0-4,SA
+Saudi Arabia,2560000,10-14,SA
+Saudi Arabia,2230000,15-19,SA
+Saudi Arabia,12100000,20-39,SA
+Saudi Arabia,9690000,40-59,SA
+Saudi Arabia,2810000,5-9,SA
+Saudi Arabia,2210000,60+,SA
+Senegal,2680000,0-4,SN
+Senegal,2130000,10-14,SN
+Senegal,1790000,15-19,SN
+Senegal,5060000,20-39,SN
+Senegal,2260000,40-59,SN
+Senegal,2470000,5-9,SN
+Senegal,811000,60+,SN
+Serbia,457000,0-4,RS
+Serbia,482000,10-14,RS
+Serbia,520000,15-19,RS
+Serbia,2290000,20-39,RS
+Serbia,2300000,40-59,RS
+Serbia,465000,5-9,RS
+Serbia,2190000,60+,RS
+Seychelles,7220,0-4,SC
+Seychelles,6750,10-14,SC
+Seychelles,5740,15-19,SC
+Seychelles,26300,20-39,SC
+Seychelles,28000,40-59,SC
+Seychelles,7730,5-9,SC
+Seychelles,14300,60+,SC
+Sierra Leone,1180000,0-4,SL
+Sierra Leone,1020000,10-14,SL
+Sierra Leone,896000,15-19,SL
+Sierra Leone,2420000,20-39,SL
+Sierra Leone,1100000,40-59,SL
+Sierra Leone,1090000,5-9,SL
+Sierra Leone,336000,60+,SL
+Singapore,264000,0-4,SG
+Singapore,302000,10-14,SG
+Singapore,334000,15-19,SG
+Singapore,1560000,20-39,SG
+Singapore,1870000,40-59,SG
+Singapore,282000,5-9,SG
+Singapore,1320000,60+,SG
+Slovak Republic,280000,0-4,SK
+Slovak Republic,283000,10-14,SK
+Slovak Republic,263000,15-19,SK
+Slovak Republic,1500000,20-39,SK
+Slovak Republic,1570000,40-59,SK
+Slovak Republic,285000,5-9,SK
+Slovak Republic,1270000,60+,SK
+Slovenia,104000,0-4,SI
+Slovenia,105000,10-14,SI
+Slovenia,91900,15-19,SI
+Slovenia,488000,20-39,SI
+Slovenia,606000,40-59,SI
+Slovenia,109000,5-9,SI
+Slovenia,579000,60+,SI
+Solomon Islands,83600,0-4,SB
+Solomon Islands,78200,10-14,SB
+Solomon Islands,70100,15-19,SB
+Solomon Islands,190000,20-39,SB
+Solomon Islands,107000,40-59,SB
+Solomon Islands,81800,5-9,SB
+Solomon Islands,36600,60+,SB
+Somalia,2910000,0-4,SO
+Somalia,2070000,10-14,SO
+Somalia,1750000,15-19,SO
+Somalia,4380000,20-39,SO
+Somalia,1860000,40-59,SO
+Somalia,2420000,5-9,SO
+Somalia,705000,60+,SO
+South Africa,5650000,0-4,ZA
+South Africa,5360000,10-14,ZA
+South Africa,5170000,15-19,ZA
+South Africa,19900000,20-39,ZA
+South Africa,11800000,40-59,ZA
+South Africa,5640000,5-9,ZA
+South Africa,5200000,60+,ZA
+South Korea,2270000,0-4,KR
+South Korea,2290000,10-14,KR
+South Korea,2530000,15-19,KR
+South Korea,13900000,20-39,KR
+South Korea,16400000,40-59,KR
+South Korea,2240000,5-9,KR
+South Korea,11900000,60+,KR
+South Sudan,2080000,0-4,SS
+South Sudan,1650000,10-14,SS
+South Sudan,1460000,15-19,SS
+South Sudan,4040000,20-39,SS
+South Sudan,1830000,40-59,SS
+South Sudan,1840000,5-9,SS
+South Sudan,707000,60+,SS
+Spain,1980000,0-4,ES
+Spain,2460000,10-14,ES
+Spain,2300000,15-19,ES
+Spain,9990000,20-39,ES
+Spain,15000000,40-59,ES
+Spain,2180000,5-9,ES
+Spain,12500000,60+,ES
+Sri Lanka,1530000,0-4,LK
+Sri Lanka,1720000,10-14,LK
+Sri Lanka,1660000,15-19,LK
+Sri Lanka,5720000,20-39,LK
+Sri Lanka,5390000,40-59,LK
+Sri Lanka,1610000,5-9,LK
+Sri Lanka,3460000,60+,LK
+St. Lucia,10500,0-4,LC
+St. Lucia,11100,10-14,LC
+St. Lucia,13400,15-19,LC
+St. Lucia,59200,20-39,LC
+St. Lucia,49100,40-59,LC
+St. Lucia,10700,5-9,LC
+St. Lucia,27200,60+,LC
+St. Vincent and the Grenadines,8000,0-4,VC
+St. Vincent and the Grenadines,9010,10-14,VC
+St. Vincent and the Grenadines,8900,15-19,VC
+St. Vincent and the Grenadines,34600,20-39,VC
+St. Vincent and the Grenadines,27200,40-59,VC
+St. Vincent and the Grenadines,8400,5-9,VC
+St. Vincent and the Grenadines,14600,60+,VC
+Sudan,6290000,0-4,SD
+Sudan,5280000,10-14,SD
+Sudan,4780000,15-19,SD
+Sudan,12700000,20-39,SD
+Sudan,6240000,40-59,SD
+Sudan,5740000,5-9,SD
+Sudan,2480000,60+,SD
+Suriname,49300,0-4,SR
+Suriname,49200,10-14,SR
+Suriname,48800,15-19,SR
+Suriname,177000,20-39,SR
+Suriname,139000,40-59,SR
+Suriname,49900,5-9,SR
+Suriname,65000,60+,SR
+Swaziland,185000,0-4,SZ
+Swaziland,165000,10-14,SZ
+Swaziland,150000,15-19,SZ
+Swaziland,513000,20-39,SZ
+Swaziland,179000,40-59,SZ
+Swaziland,176000,5-9,SZ
+Swaziland,71100,60+,SZ
+Sweden,620000,0-4,SE
+Sweden,586000,10-14,SE
+Sweden,541000,15-19,SE
+Sweden,2600000,20-39,SE
+Sweden,2560000,40-59,SE
+Sweden,593000,5-9,SE
+Sweden,2620000,60+,SE
+Switzerland,456000,0-4,CH
+Switzerland,410000,10-14,CH
+Switzerland,425000,15-19,CH
+Switzerland,2260000,20-39,CH
+Switzerland,2490000,40-59,CH
+Switzerland,434000,5-9,CH
+Switzerland,2200000,60+,CH
+Syria,1860000,0-4,SY
+Syria,2440000,10-14,SY
+Syria,2330000,15-19,SY
+Syria,5500000,20-39,SY
+Syria,3180000,40-59,SY
+Syria,2180000,5-9,SY
+Syria,1430000,60+,SY
+Tajikistan,1210000,0-4,TJ
+Tajikistan,991000,10-14,TJ
+Tajikistan,830000,15-19,TJ
+Tajikistan,3080000,20-39,TJ
+Tajikistan,1600000,40-59,TJ
+Tajikistan,1160000,5-9,TJ
+Tajikistan,613000,60+,TJ
+Tanzania,10400000,0-4,TZ
+Tanzania,8020000,10-14,TZ
+Tanzania,6780000,15-19,TZ
+Tanzania,17500000,20-39,TZ
+Tanzania,7790000,40-59,TZ
+Tanzania,9290000,5-9,TZ
+Tanzania,2950000,60+,TZ
+Thailand,3410000,0-4,TH
+Thailand,4110000,10-14,TH
+Thailand,4380000,15-19,TH
+Thailand,18800000,20-39,TH
+Thailand,21600000,40-59,TH
+Thailand,3840000,5-9,TH
+Thailand,13300000,60+,TH
+Timor-Leste,216000,0-4,TL
+Timor-Leste,181000,10-14,TL
+Timor-Leste,155000,15-19,TL
+Timor-Leste,380000,20-39,TL
+Timor-Leste,172000,40-59,TL
+Timor-Leste,201000,5-9,TL
+Timor-Leste,77000,60+,TL
+Togo,1240000,0-4,TG
+Togo,1040000,10-14,TG
+Togo,896000,15-19,TG
+Togo,2470000,20-39,TG
+Togo,1220000,40-59,TG
+Togo,1130000,5-9,TG
+Togo,393000,60+,TG
+Tonga,12300,0-4,TO
+Tonga,13200,10-14,TO
+Tonga,12500,15-19,TO
+Tonga,31400,20-39,TO
+Tonga,19000,40-59,TO
+Tonga,12700,5-9,TO
+Tonga,10000,60+,TO
+Trinidad and Tobago,86700,0-4,TT
+Trinidad and Tobago,96000,10-14,TT
+Trinidad and Tobago,89100,15-19,TT
+Trinidad and Tobago,417000,20-39,TT
+Trinidad and Tobago,367000,40-59,TT
+Trinidad and Tobago,95400,5-9,TT
+Trinidad and Tobago,227000,60+,TT
+Tunisia,997000,0-4,TN
+Tunisia,855000,10-14,TN
+Tunisia,787000,15-19,TN
+Tunisia,3710000,20-39,TN
+Tunisia,2940000,40-59,TN
+Tunisia,1020000,5-9,TN
+Tunisia,1590000,60+,TN
+Turkey,6380000,0-4,TR
+Turkey,6760000,10-14,TR
+Turkey,6810000,15-19,TR
+Turkey,25900000,20-39,TR
+Turkey,20300000,40-59,TR
+Turkey,6820000,5-9,TR
+Turkey,10800000,60+,TR
+Turkmenistan,661000,0-4,TM
+Turkmenistan,524000,10-14,TM
+Turkmenistan,485000,15-19,TM
+Turkmenistan,1970000,20-39,TM
+Turkmenistan,1230000,40-59,TM
+Turkmenistan,672000,5-9,TM
+Turkmenistan,489000,60+,TM
+Uganda,8430000,0-4,UG
+Uganda,6320000,10-14,UG
+Uganda,5360000,15-19,UG
+Uganda,13200000,20-39,UG
+Uganda,4990000,40-59,UG
+Uganda,7300000,5-9,UG
+Uganda,1560000,60+,UG
+Ukraine,2280000,0-4,UA
+Ukraine,2360000,10-14,UA
+Ukraine,1940000,15-19,UA
+Ukraine,11900000,20-39,UA
+Ukraine,12200000,40-59,UA
+Ukraine,2400000,5-9,UA
+Ukraine,10500000,60+,UA
+United Arab Emirates,439000,0-4,AE
+United Arab Emirates,443000,10-14,AE
+United Arab Emirates,386000,15-19,AE
+United Arab Emirates,4810000,20-39,AE
+United Arab Emirates,2950000,40-59,AE
+United Arab Emirates,478000,5-9,AE
+United Arab Emirates,312000,60+,AE
+United Kingdom,4070000,0-4,GB
+United Kingdom,3940000,10-14,GB
+United Kingdom,3620000,15-19,GB
+United Kingdom,17300000,20-39,GB
+United Kingdom,17600000,40-59,GB
+United Kingdom,4060000,5-9,GB
+United Kingdom,16700000,60+,GB
+United States,20800000,0-4,US
+United States,21000000,10-14,US
+United States,21200000,15-19,US
+United States,90300000,20-39,US
+United States,82400000,40-59,US
+United States,20000000,5-9,US
+United States,75800000,60+,US
+Uruguay,237000,0-4,UY
+Uruguay,243000,10-14,UY
+Uruguay,248000,15-19,UY
+Uruguay,975000,20-39,UY
+Uruguay,848000,40-59,UY
+Uruguay,239000,5-9,UY
+Uruguay,704000,60+,UY
+Uzbekistan,3150000,0-4,UZ
+Uzbekistan,2930000,10-14,UZ
+Uzbekistan,2540000,15-19,UZ
+Uzbekistan,11600000,20-39,UZ
+Uzbekistan,7020000,40-59,UZ
+Uzbekistan,3180000,5-9,UZ
+Uzbekistan,2850000,60+,UZ
+Vanuatu,36500,0-4,VU
+Vanuatu,33200,10-14,VU
+Vanuatu,26800,15-19,VU
+Vanuatu,91700,20-39,VU
+Vanuatu,50800,40-59,VU
+Vanuatu,34200,5-9,VU
+Vanuatu,20800,60+,VU
+Venezuela,2950000,0-4,VE
+Venezuela,2930000,10-14,VE
+Venezuela,2850000,15-19,VE
+Venezuela,10400000,20-39,VE
+Venezuela,7420000,40-59,VE
+Venezuela,2970000,5-9,VE
+Venezuela,3620000,60+,VE
+Vietnam,7650000,0-4,VN
+Vietnam,7200000,10-14,VN
+Vietnam,6590000,15-19,VN
+Vietnam,32100000,20-39,VN
+Vietnam,24800000,40-59,VN
+Vietnam,7710000,5-9,VN
+Vietnam,12300000,60+,VN
+Yemen,4180000,0-4,YE
+Yemen,3600000,10-14,YE
+Yemen,3230000,15-19,YE
+Yemen,10000000,20-39,YE
+Yemen,3830000,40-59,YE
+Yemen,3970000,5-9,YE
+Yemen,1420000,60+,YE
+Zambia,3100000,0-4,ZM
+Zambia,2390000,10-14,ZM
+Zambia,2120000,15-19,ZM
+Zambia,5480000,20-39,ZM
+Zambia,2200000,40-59,ZM
+Zambia,2700000,5-9,ZM
+Zambia,688000,60+,ZM
+Zimbabwe,2520000,0-4,ZW
+Zimbabwe,2150000,10-14,ZW
+Zimbabwe,1840000,15-19,ZW
+Zimbabwe,5740000,20-39,ZW
+Zimbabwe,2200000,40-59,ZW
+Zimbabwe,2460000,5-9,ZW
+Zimbabwe,753000,60+,ZW
